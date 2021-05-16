@@ -43,3 +43,4 @@ plt.ylabel("频数/频率")
 # 显示图标题
 plt.title("频数/频率分布直方图")
 plt.show()
+
